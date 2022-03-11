@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 --> 
 
-- 💻 Iniciante em HTML, CSS, JS e linguagem C/C#
+- 💻 Iniciante em SWIFT, HTML, CSS, JS e linguagem C/C#
 - ⏳  Estudante de Ciência da Computação - IFCE
 - ✨ Atualmente trabalhando como Suporte técnico
 
