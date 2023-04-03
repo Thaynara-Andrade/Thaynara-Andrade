@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 --> 
 
-- 💻 Iniciante em Swift, HTML, CSS, JS e C/C#
+- 💻 Iniciante em Swift, Python, HTML, CSS, JS e C/C#
 - ⏳ Estudante de Ciência da Computação - IFCE
 - ✨ IOS DEVELOPER 
 
