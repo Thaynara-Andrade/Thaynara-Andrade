@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 --> 
 
 - 📱 Developer Mobile (Swift & Kotlin)
-- ⏳ Estudante de Ciência da Computação - IFCE
+- ⏳ Graduanda em Ciência da Computação - Instituto Federal do Ceará
   
 
 
