@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 <div align="justified">
   <a href="https://github.com/Thaynara-Andrade">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Thaynara-Andrade&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d588a1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYNARA;COMPUTER+SCIENCE+STUDENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
