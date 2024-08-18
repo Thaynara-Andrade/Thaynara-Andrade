@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thaynara-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=d588a1&icon_color=d588a19&text_color=d588a1&bg_color=803b55" alt="Thaynara Andrade github stats" /> 
   <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaynara-Andrade&layout=compact&hide_border=true&title_color=d588a1&text_color=d588a1&bg_color=803b55" />
 </div>
+
+##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="thaynara-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
