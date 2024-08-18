@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 
 --> 
 
-- 💻 Iniciante em Swift, Python, HTML, CSS, JS e C/C#
+- 📱 Developer Mobile (Swift & Kotlin)
 - ⏳ Estudante de Ciência da Computação - IFCE
-- ✨ IOS DEVELOPER 
 
 
 <div align="justified">
