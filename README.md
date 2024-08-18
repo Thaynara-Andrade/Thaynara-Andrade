@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Thaynara-Andrade">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Thaynara-Andrade&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thaynara+Andrade;Developer+mobile;I+am+from+Fortaleza,+CE;I+study;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d588a1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYNARA;COMPUTER+SCIENCE+STUDENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <div style="display: inline_block"><br>
   <img align="center" alt="thaynara-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="thaynara-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="thaynara-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="thaynara-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 
 ##
 
