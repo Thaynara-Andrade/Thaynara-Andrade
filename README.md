@@ -11,10 +11,7 @@ Here are some ideas to get you started:
 - 📱 Developer Mobile (Swift & Kotlin)
 - ⏳ Graduanda em Ciência da Computação - Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
 - 🎨 UX/UI Se aventurando no mundo do Design
-
-          
-  
-
+/n
 
 <div align="justified">
   <a href="https://github.com/Thaynara-Andrade">
