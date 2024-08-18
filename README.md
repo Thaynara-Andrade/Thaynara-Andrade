@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 --> 
 
 - 👩🏻‍💻 Apple Developer Academy [2023-2024]
-- 📱 Desenvolvedora Mobile [Swift & Kotlin]
+- 📱 Desenvolvedora Mobile - Swift & Kotlin
 - ⏳ Graduanda em Ciência da Computação - Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
 - 🎨 UX/UI Se aventurando no mundo do Design
   
