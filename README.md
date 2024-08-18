@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <div align="justified">
   <a href="https://github.com/Thaynara-Andrade">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d588a1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYNARA;COMPUTER+SCIENCE+STUDENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Scriptcolor=d588a1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THAYNARA;COMPUTER+SCIENCE+STUDENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
