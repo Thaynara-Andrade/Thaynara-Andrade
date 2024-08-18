@@ -15,15 +15,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/Thaynara-Andrade">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Thaynara-Andrade&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thaynara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thaynara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thaynara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Thaynara-pic" height="150" style="border-radius:50px;"
-    src="https://cdn.discordapp.com/attachments/933072914767560717/933072991410065438/download20220102132437.png">
-   
-</div>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="thaynara-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="thaynara-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+  
+  ##
 
 ##
 
