@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 Almuni at Apple Developer Academy
 - 📱 Developer Mobile (Swift & Kotlin)
 - ⏳ Graduanda em Ciência da Computação - Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
-- 🎨 UX/UI Se aventurando no mundo do Design 
+- 🎨 UX/UI Se aventurando no mundo do Design
+- 
   
 
 
