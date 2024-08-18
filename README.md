@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thaynara-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=d588a1&icon_color=56142f&text_color=c9d1d9&bg_color=56142f" alt="Thaynara Andrade github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaynara-Andrade&layout=compact&hide_border=true&title_color=00bfbf&text_color=d588a1&bg_color=56142f" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thaynara-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=d588a1&icon_color=d588a1&text_color=d588a19&bg_color=803b55" alt="Thaynara Andrade github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaynara-Andrade&layout=compact&hide_border=true&title_color=00bfbf&text_color=d588a1&bg_color=803b55" />
 </div>
   
   <div style="display: inline_block"><br>
