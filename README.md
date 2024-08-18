@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 - 📱 Developer Mobile (Swift & Kotlin)
 - ⏳ Estudante de Ciência da Computação - IFCE
+  
 
 
 <div align="justified">
