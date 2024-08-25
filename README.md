@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Thaynara-Andrade">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=d588a1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thaynara+👩🏻‍💻;Estudante+de+Computação+📚;Bem+Vindo(a)!+✨+)](https://git.io/typing-svg)
-
+###
 
 ##
   
