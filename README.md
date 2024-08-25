@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=d588a1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thaynara+👩🏻‍💻;Estudante+de+Computação+📚;Bem+Vindo(a)!+✨+)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thaynara-Andrade&show_icons=true&count_private=true&hide_border=true&title_color=d588a1&icon_color=d588a19&text_color=d588a1&bg_color=803b55" alt="Thaynara Andrade github stats" /> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaynara-Andrade&layout=compact&hide_border=true&title_color=d588a1&text_color=d588a1&bg_color=803b55" />
-</div>
-
 ##
   
   <div style="display: inline_block"><br>
