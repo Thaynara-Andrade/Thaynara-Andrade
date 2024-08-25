@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=d588a1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Thaynara+👩🏻‍💻;Estudante+de+Computação+📚;Bem+Vindo(a)!+✨+)](https://git.io/typing-svg)
 
 
-###
+##
+#
   
   <div style="display: inline_block"><br>
   <img align="center" alt="thaynara-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
