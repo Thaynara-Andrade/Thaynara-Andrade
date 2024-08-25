@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 
 ##
-#
+
+###
   
   <div style="display: inline_block"><br>
   <img align="center" alt="thaynara-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
